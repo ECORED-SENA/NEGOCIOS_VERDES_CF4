@@ -12,7 +12,7 @@
       img.img-a(src='@/assets/curso/tema_3/img_1.png', alt='')(data-aos="zoom-in-down")
 
     .row.p-5.justify-content-center.mb-5(data-aos="zoom-in-down")
-      .col-lg-10.bg09.p-4
+      .col-lg-10.bg10.p-4
         p.mb-0 En la actualidad, algunas empresas no son consideradas como una oportunidad para la sociedad, por el contrario, se han catalogado como amenazas por los diferentes impactos ambientales y sociales que sus actividades económicas producen al entorno en el cual se encuentran. 
 
     p(data-aos="fade-down-right") Es muy común escuchar “el petróleo y la minería son el cáncer del medio ambiente” y aunque sus actividades si producen impactos negativos al mismo, las empresas se han enfocado en la creación de estrategias para mitigar el impacto y crear valor compartido. Pero ¿qué es el valor compartido?  Porter y Kramer (2011) lo definen como “las políticas y prácticas operacionales que mejoran la competitividad de una empresa, a la vez que ayudan a mejorar las condiciones económicas y sociales de las comunidades donde opera. La creación de valor compartido se enfoca en identificar y expandir las conexiones entre los progresos económico y social. El concepto de valor compartido reconoce que las necesidades sociales, y no solo las necesidades económicas convencionales, son las que definen los mercados”. (Porter & Kramer, 2011)

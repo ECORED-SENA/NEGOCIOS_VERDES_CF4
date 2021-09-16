@@ -67,6 +67,99 @@ export default {
         titulo: 'Creación de valor compartido',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Comercio justo',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Los diez principios del comercio justo',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Organización internacional de comercio justo',
+            hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo: 'Certificación de comercio justo (FLO)',
+            hash: 't_4_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.4',
+            titulo: 'Ejemplo DOFA enfocado a Negocios verdes  ',
+            hash: 't_4_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Compras públicas sostenibles',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Plan nacional de compras públicas sostenibles ',
+            hash: 't_5_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Tendencias del mercado',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.1',
+            titulo: 'Economía circular',
+            hash: 't_6_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.2',
+            titulo: 'Economía lineal',
+            hash: 't_6_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.3',
+            titulo: 'Economía circular vs economía lineal',
+            hash: 't_6_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.4',
+            titulo: 'Ventajas de la economía circular',
+            hash: 't_6_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.5',
+            titulo: 'Economía solidaria',
+            hash: 't_6_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.6',
+            titulo: 'Economía colaborativa',
+            hash: 't_6_6',
+          },
+        ],
+      },
     ],
     subMenu: [
       {
