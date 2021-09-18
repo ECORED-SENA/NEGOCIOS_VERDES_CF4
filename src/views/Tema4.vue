@@ -238,6 +238,8 @@
 
     p(data-aos="zoom-in-down") Los comerciantes que utilizan la marca de certificación de Comercio Justo en sus empaques, cubren el costo de la certificación pagando una licencia, mientras que el productor no paga nada.
 
+    
+
 
 </template>
 
