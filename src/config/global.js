@@ -160,14 +160,58 @@ export default {
           },
         ],
       },
-    ],
-    subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
+        nombreRuta: 'tema7',
+        icono: 'far fa-file-alt',
+        numero: '7',
+        titulo: 'Emprendimiento en negocios verdes',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '7.1',
+            titulo: 'Marketing verde',
+            hash: 't_7_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '7.2',
+            titulo: 'Mezcla del marketing verde',
+            hash: 't_7_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        icono: 'far fa-file-alt',
+        numero: '8',
+        titulo: 'Sistema de producción orgánicos, bilógicos o ecológicos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '8.1',
+            titulo:
+              'Diferencias entre productos ecológicos, biológicos y orgánicos',
+            hash: 't_8_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '8.2',
+            titulo: 'Normativa',
+            hash: 't_8_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema9',
+        icono: 'far fa-file-alt',
+        numero: '9',
+        titulo: 'Biodiversidad en Colombia',
         desarrolloContenidos: true,
       },
+    ],
+    subMenu: [
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -204,135 +248,121 @@ export default {
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Aguirre García, M. S., Gonzalez de Durana, C., Charterina Abando , J., & Vicente Molina, A. (2003). El consumidor ecológico. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.researchgate.net/publication/28061197_El_consumidor_ecologico',
     },
+
     {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+      referencia: 'Connect Americas . (2020). Connect Americas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://connectamericas.com/es/content/%C2%BFqu%C3%A9-es-la-certificaci%C3%B3n-de-comercio-justo-y-c%C3%B3mo-funciona',
     },
+
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'FAIRTRADE INTERNATIONAL. (s.f.). Las marcas de comercio justo.',
+      link: 'https://www.fairtrade.net/about/fairtrade-marks',
     },
+
+    {
+      referencia: 'Farah, A. Z. (2018). ONU.',
+      link: 'https://news.un.org/es/interview/2018/12/1447801',
+    },
+
+    { referencia: 'Grant, J. (2007). The Green Marketing Manifiesto.' },
+
+    {
+      referencia: 'Marcet, X., Marcet, M., & Vergés, F. (2018).',
+      link: 'Papeles del Pacto Industrial, número 4. www.pacteindustrial.org',
+    },
+
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Martinez Turrubiates, A., & Prieto, F. (2016). Consumidor ecogológico.',
+    },
+
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2015). Plan de Acción Nacional de Compras Públicas Sostenibles 2016 - 2020 .',
+    },
+
+    {
+      referencia: 'ONU Medio Ambiente. (2018). ONU.',
+      link: 'https://news.un.org/es/interview/2018/12/1447801',
+    },
+
+    { referencia: 'Porter, M., & Kramer, M. (2011). Estrategia y Sociedad.' },
+
+    {
+      referencia: 'Proargentina . (2005). Productos Orgánicos. EL Cid Editor.',
+    },
+
+    {
+      referencia: 'Sancha, C. (2018). Mundo Empresarial .',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.monempresarial.com/es/2018/06/18/economia-verde-y-circular-dafo/',
     },
+
+    {
+      referencia: 'Ventura. (s.f.). Serie Qué ver.',
+      link: 'https://vaventura.com/que-ver/',
+    },
+
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Vidal, I. (2011). El principio de valor compartido de Porter y Kramer. CIES Centro de Investigación de Economía y Sociedad.',
     },
+
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'WFTO-LA. (2020). World Fair Trade Organization Latin America.',
+      link: 'http://www.wfto-la.org/comerciojusto/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'Biodiversidad',
+      significado: 'Es la variedad de seres vivos sobre la tierra.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Comercio justo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es una forma alternativa de comercio, promovida por varias ONG, por la Organización de las Naciones Unidas (ONU) y por los movimientos sociales y políticos que promueven una relación comercial voluntaria y justa entre productores y consumidores.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Compras públicas sostenibles',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Una compra es considerada sostenible cuando satisface la necesidad y contribuye a la protección del medio ambiente, la reducción en el consumo de recursos, o la inclusión y la justicia social durante el desarrollo de un proceso de compra pública. Con base en lo anterior, las entidades Estatales deben considerar los impactos ambientales, sociales y económicos de sus adquisiciones para desarrollar un programa de Compras Públicas Sostenibles.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'DOFA',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'El análisis FODA, también conocido como análisis DAFO, es una herramienta de estudio de la situación de una empresa, institución, proyecto o persona, analizando sus características internas y su situación externa en una matriz cuadrada.',
     },
     {
-      termino: 'Moda',
+      termino: 'Emprendimiento',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Suele ser un proyecto que se desarrolla con esfuerzo y haciendo frente a diversas dificultades, inicia como una pequeña empresa con la resolución de llegar a un determinado punto.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Marketing',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Disciplina dedicada al análisis del comportamiento de los mercados y de los consumidores. El marketing analiza la gestión comercial de las empresas, con el objetivo de captar, retener y fidelizar a los clientes a través de la satisfacción de sus necesidades.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Fairtrade International (s.f.) Las marcas de comercio justo. ',
+      tipo: 'Sitio web',
+      link: 'https://www.fairtrade.net/about/fairtrade-marks',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ministerio de Ambiente y Desarrollo Sostenible (2017). Compras Públicas Sostenibles Guía Conceptual y Metodológica.',
+      tipo: 'Guía Conceptual y Metodológica Compras Públicas Sostenibles',
+      descarga:
+        '/downloads/Guia_Conceptual_y_Metodologica_Compras_Publicas_Sostenibles_1.pdf',
     },
   ],
   creditos: {
@@ -349,6 +379,27 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Kateryn Valderrama Varón',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio y servicios Regional Tolima',
+      },
+      {
+        nombre: 'José Gregorio Ramírez ',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio y servicios Regional Tolima ',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Gestión Industrial Regional Bogotá ',
+      },
+      {
+        nombre: 'Adriana Lozano Zapata',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -370,13 +421,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Ricardo Alfonso Gonzaléz Vargas',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Oscar Marquez Sanabria',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
