@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="zoom-in")
       .titulo-principal__numero
         span 1
-      h1 DOFA dirigido a Negocios verdes
+      h1 DOFA dirigido a negocios verdes
 
     figure
       img.img-a(src='@/assets/curso/tema_1/img_2.png', alt='')(data-aos="zoom-in-down")
@@ -52,7 +52,7 @@
     separador
 
     .titulo-segundo(data-aos="zoom-in")
-      #t_1_2.h2 1.2 Etapas de la planeación comercial
+      #t_1_2.h2 1.2 Ventajas y desventajas
 
     .row.bg01.p-4.align-items-center
       .col-lg-8.mb-4.mb-lg-0(data-aos="slide-left")
@@ -66,7 +66,7 @@
     .titulo-segundo(data-aos="zoom-in")
       #t_1_3.h2 1.3 Elaboración 
 
-    p.mb-5(data-aos="slide-down") Dentro de las ventajas que tiene este modelo de análisis es que puede ser elaborado por cualquier miembro de la organización y en cualquier unidad estratégica de negocio y es un método rentable para la organización. En cuanto a las desventajas que presenta es que es un método simple y su resultado no es lo suficientemente crítico, por lo cual requiere de un método adicional que complemente sus resultados. 
+    p.mb-5(data-aos="slide-down") Para la correcta aplicación del método, es necesario analizar el entorno en el cual se encuentran las compañías, entendiendo como entorno, a todas y cada una de las variables que intervienen directa o indirectamente en la misma, con el in de generar estrategias alternativas. Este análisis organizacional se debe realizar teniendo en cuenta lo siguiente: 
 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0.bg03.p-4
@@ -90,9 +90,9 @@
     separador
 
     .titulo-segundo(data-aos="zoom-in")
-      #t_1_4.h2 1.4 Ejemplo DOFA enfocado a Negocios verdes  
+      #t_1_4.h2 1.4 Ejemplo DOFA enfocado a negocios verdes  
 
-    p.mb-5 A continuación se presenta un ejemplo de matriz DOFA aplicada a los Negocios verdes,  propuesto por Cristina Sancha, PhD i directora académica del Área de Sistemas y Operaciones de OBS Business School, 
+    p.mb-5 A continuación se presenta un ejemplo de matriz DOFA aplicada a los negocios verdes,  propuesto por Cristina Sancha, PhD i directora académica del área de sistemas y operaciones de OBS business school, 
 
     .row.justify-content-center
       .col-lg-10.mb-4.mb-lg-0
@@ -125,7 +125,7 @@
               .list__item
                   .list__item__bulletNumber 
               .list__txt    
-                p.m-top #[strong Marco normativo y de referencia.] Colombia ya cuenta con una hoja de ruta sobre Negocios verdes. 
+                p.m-top #[strong Marco normativo y de referencia.] Colombia ya cuenta con una hoja de ruta sobre negocios verdes. 
             .list(data-aos="slide-right")
               .list__item
                   .list__item__bulletNumber 

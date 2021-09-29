@@ -80,7 +80,7 @@
 
     h4 Principios y valores de las compras públicas sostenibles
 
-    p.mb-5 “Teniendo como marco la política nacional de Producción y Consumo Sostenible y los Objetivos de Desarrollo Sostenible de la ONU, el PAN CPS reconoce los siguiente principios y valores rectores de las CPS en Colombia:
+    p.mb-5 “Teniendo como marco la política nacional de Producción y Consumo Sostenible y los Objetivos de Desarrollo Sostenible de la ONU, el PAN CPS reconoce los siguientes principios y valores rectores de las CPS en Colombia:
 
     .row.justify-content-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
@@ -116,13 +116,13 @@
 
           p Para profundizar en lo que cada uno de estos principios y valores significa, consulte en el material complementario: 
 
-          a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo(:href="obtenerLink('/downloads/Guia_Conceptual_y_Metodologica_Compras_Publicas_Sostenibles_1.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
               p Guía conceptual y metodológica compras públicas sostenibles. 
 
-    h4 Objetivos del plan de acción nacional de compras públicas sostenibles
+    h4 Objetivos del Plan de Acción Nacional de Compras Públicas Sostenibles
 
     p.mb-5 “Este Plan de Acción Nacional de Compras Públicas Sostenibles (PAN CPS), conforme al marco jurídico y político nacional e internacional vigente, establece los siguientes objetivos al 2020:
 
@@ -133,25 +133,25 @@
           .list__item
               .list__item__bulletNumber1 
           .list__txt    
-            p.m-top.mb-0 Incentivar el uso de Compras Públicas Sostenibles en todas las entidades estatales.
+            p.m-top.mb-0 Incentivar el uso de compras públicas sostenibles en todas las entidades estatales.
         .ln.mb-4(data-aos="zoom-in")
         .list(data-aos="fade-down-right")
           .list__item
               .list__item__bulletNumber1 
           .list__txt    
-            p.m-top.mb-0 Desarrollar herramientas que permitan aumentar el uso de las Compras Públicas Sostenibles.
+            p.m-top.mb-0 Desarrollar herramientas que permitan aumentar el uso de las compras públicas sostenibles.
         .ln.mb-4(data-aos="zoom-in")
         .list(data-aos="fade-down-right")
           .list__item
               .list__item__bulletNumber1 
           .list__txt    
-            p.m-top.mb-0 Afianzar y asegurar el rol de avanzada en Compras Públicas Sostenibles en el escenario internacional y en la Organización para la Cooperación y el Desarrollo Económico (OCDE)
+            p.m-top.mb-0 Afianzar y asegurar el rol de avanzada en compras públicas sostenibles en el escenario internacional y en la Organización para la Cooperación y el Desarrollo Económico (OCDE)
         .ln.mb-4(data-aos="zoom-in")
         .list(data-aos="fade-down-right")
           .list__item
               .list__item__bulletNumber1 
           .list__txt    
-            p.m-top.mb-0 Aumentar incentivos, eliminar/reducir barreras y generar alianzas - sinergias con sectores e instrumentos (ecoinnovación, economía verde, entre otras) para la implementación de las Compras Públicas Sostenibles”. (Ministerio de Ambiente y Desarrollo Sostenible, 2015).
+            p.m-top.mb-0 Aumentar incentivos, eliminar/reducir barreras y generar alianzas - sinergias con sectores e instrumentos (ecoinnovación, economía verde, entre otras) para la implementación de las compras públicas sostenibles”. (Ministerio de Ambiente y Desarrollo Sostenible, 2015).
         .ln.mb-4(data-aos="zoom-in")
       .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="fade-down-left")

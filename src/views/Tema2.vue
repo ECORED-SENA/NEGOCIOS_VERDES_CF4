@@ -15,7 +15,7 @@
       .col-lg-6.bg08.p-4
         p.mb-0 Continuando con el análisis de los factores que pueden afectar directa e indirectamente el desarrollo de las actividades de una organización, se iniciará con el estudio de uno de los más importantes: los consumidores. 
 
-    p(data-aos="slide-left") El consumidor ecológico es un comprador consciente y sensible de las repercusiones que sus hábitos de consumo imponen sobre el desarrollo sostenible de la región en donde vive. Valora la calidad de vida en términos del respeto al medio ambiente, la utilización responsable de los recursos naturales, el cuidado de su salud y el bienestar general de su comunidad. Reconoce que esta actitud ante la vida puede tener costos económicos adicionales y está dispuesto a afrontarlos. (Martinez Turrubiates & Prieto, 2016)
+    p(data-aos="slide-left") El consumidor ecológico es un comprador consciente y sensible de las repercusiones que sus hábitos de consumo imponen sobre el desarrollo sostenible de la región en donde vive. Valora la calidad de vida en términos del respeto al medio ambiente, la utilización responsable de los recursos naturales, el cuidado de su salud y el bienestar general de su comunidad. Reconoce que esta actitud ante la vida puede tener costos económicos adicionales y está dispuesto a afrontarlos. (Martínez Turrubiates & Prieto, 2016)
     p(data-aos="slide-right") No obstante, aunque los consumidores no son el fin único de los Negocios verdes, son uno de los factores más importantes, teniendo en cuenta que son quienes finalmente dan la aprobación o negación de compra y por ende, realizan el aporte económico que necesitan las compañías para continuar ofreciendo sus productos. 
     p.mb-5(data-aos="slide-left") Actualmente, gran parte de la población es consciente de la necesidad de cuidar y proteger los recursos con los que se cuentan, al igual que de los daños y cambios ocasionados en el medio ambiente por el uso desmedido de los mismos, razones por las cuales, el número de consumidores ecológicos ha venido en ascenso gradualmente, por medio del cumplimiento de las siguientes etapas: 
 
@@ -31,19 +31,19 @@
           img.img-a.fle(src='@/assets/curso/tema_2/img_4.png', alt='')(data-aos="zoom-in-down")
 
     .row.justify-content-center.mb-5
-      .col-lg-2.mb-4.mb-lg-0.bor1.p-2(data-aos="fade-up")
+      .col-lg-2.mb-4.mb-lg-0.bor1.p-2.d-flex(data-aos="fade-up")
         .p-2.bg09.text-center
           strong 1. 
           p.mb-0 Precocupación por el medio ambiente. 
-      .col-lg-2.mb-4.mb-lg-0.bor1.p-2(data-aos="fade-down")
+      .col-lg-2.mb-4.mb-lg-0.bor1.p-2.d-flex(data-aos="fade-down")
         .p-2.bg09.text-center
           strong 2. 
           p.mb-0 Desarrollo de una actitud positiva hacia un problema medioambiental dado.
-      .col-lg-2.mb-4.mb-lg-0.bor1.p-2(data-aos="fade-up")
+      .col-lg-2.mb-4.mb-lg-0.bor1.p-2.d-flex(data-aos="fade-up")
         .p-2.bg09.text-center
           strong 3.
           p.mb-0 Información, aumento del conocimiento sobre el medio ambiente, sus posibles riesgos y opciones para solucionarlos.
-      .col-lg-2.mb-4.mb-lg-0.bor1.p-2(data-aos="fade-down")
+      .col-lg-2.mb-4.mb-lg-0.bor1.p-2.d-flex(data-aos="fade-down")
         .p-2.bg09.text-center
           strong 4. 
           p.mb-0 Comportamiento ecológico, compra de bienes y servicios que cumplan con los requerimientos ecológicos. 

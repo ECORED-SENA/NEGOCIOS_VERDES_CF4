@@ -34,20 +34,13 @@
       .col-lg-4.mb-4.mb-lg-0.d-flex(data-aos="fade-up")
         .cajon.color-secundario.p-4
           h5 Creando grupos locales de apoyo a la empresa, lo que también se conoce con la palabra clúster
-          p Un clúster es una concentración geográfica de empresas, proveedores especializados, instituciones como universidades y asociaciones de empresarios interconectados. Empresas que compiten pero que también colaboran entre ellas y crean una masa crítica que facilita la competitividad de cada una de las organizaciones que forman parte del clúster 
+          p Un clúster es una concentración geográfica de empresas, proveedores especializados, instituciones como universidades y asociaciones de empresarios interconectados. Empresas que compiten, pero que también colaboran entre ellas y crean una masa crítica que facilita la competitividad de cada una de las organizaciones que forman parte del clúster. 
 
-    .row.justify-content-center.mb-5
-      .col-lg-3.mb-4.mb-lg-0(data-aos="slide-left")
-        .bor3.p-2.top_txt
-          p Creando grupos locales de apoyo a la empresa lo que también se conoce con la palabra clúster.
-      .col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
-        .bor2.p-2
-          p Nuevos mercados y productos.
-        figure
-          img.img-a(src='@/assets/curso/tema_3/img_3.png', alt='')
-      .col-lg-3.mb-4.mb-lg-0(data-aos="slide-right")
-        .bor4.p-2.top_txt1
-          p Redefiniendo la productividad en la cadena de valor.
+    
+    figure.mb-5(data-aos="zoom-in")
+      img.img-a.mb-3(src='@/assets/curso/tema_3/img_3.png', alt='')
+      figcaption Fuente: (Vidal, 2011)
+      
 
     p(data-aos="fade-up-left") Cada una de estas tres vías forma parte del círculo virtuoso de valor compartido; al aportar cada una de ellas valor en un área determinada, facilita el surgimiento de nuevas oportunidades en las otras áreas. 
 

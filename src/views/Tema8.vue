@@ -6,14 +6,14 @@
     .titulo-principal(data-aos="zoom-in")
       .titulo-principal__numero
         span 8
-      h1 Sistema de producción orgánicos, bilógicos o ecológicos  
+      h1 Sistema de producción orgánicos, biológicos o ecológicos  
 
     figure
       img.img-a(src='@/assets/curso/tema_8/img_1.png', alt='')(data-aos="zoom-in-down")
 
     .row.p-5.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-lg-9.bg10.p-4
-        p.mb-0 Se denomina orgánicos, biológicos o ecológicos a sistemas de producción sustentables que mediante el manejo racional de los recursos naturales, sin aplicación de productos de síntesis química, brinden alimentos sanos y abundantes, mantengan la fertilidad del suelo, la diversidad ecológica y que asimismo permitan a los consumidores identificarlos a través de un sistema de certificación que lo garantice. Se refiere a un proceso, más que a un producto, comprendiendo las etapas de producción, elaboración, envase, embalaje, transporte y comercialización” (Proargentina , 2005)
+        p.mb-0 Se denomina orgánicos, biológicos o ecológicos a sistemas de producción sustentables que mediante el manejo racional de los recursos naturales, sin aplicación de productos de síntesis química, brinden alimentos sanos y abundantes, mantengan la fertilidad del suelo, la diversidad ecológica y que asimismo permitan a los consumidores identificarlos a través de un sistema de certificación que lo garantice. Se refiere a un proceso, más que a un producto, comprendiendo las etapas de producción, elaboración, envase, embalaje, transporte y comercialización (Proargentina, 2005)
 
     p(data-aos="zoom-in") Este sistema consiste en un modelo de gestión aplicable a la producción agropecuaria, acuícola, forestal y pesquera, el cual promueve la conservación de la biodiversidad. Del mismo modo, promueve el cuidado del suelo, el agua, el reciclaje de nutrientes y el balance energético del sistema. 
  

@@ -5,8 +5,8 @@
     
     .titulo-principal(data-aos="zoom-in")
       .titulo-principal__numero
-        span 8
-      h1 Sistema de producción orgánicos, bilógicos o ecológicos  
+        span 9
+      h1 Biodiversidad en Colombia  
 
     figure
       img.img-a(src='@/assets/curso/tema_9/img_1.png', alt='')(data-aos="zoom-in-down")
@@ -22,7 +22,8 @@
     p.mb-5(data-aos="slide-right") Es importante resaltar que Colombia se divide en cinco (5) regiones geográficas, cada una con costumbres, climas y relieves muy diferentes entre sí y por supuesto, una gran variedad de biodiversidad, como se puede evidenciar en el siguiente mapa de biodiversidad colombiana:
 
     figure.mb-5
-      img.img-a(src='@/assets/curso/tema_9/img_2.png', alt='')(data-aos="zoom-in-down")
+      img.img-a.mb-3(src='@/assets/curso/tema_9/img_2.png', alt='')(data-aos="zoom-in-down")
+      figcaption Fuente: (Ventura, s.f.)
 
     .head1.p-4
       h4.mb-0.text-center Datos curiosos de la biodiversidad colombiana

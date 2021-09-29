@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Negocios verdes, oportunidades y tendencias del mercado',
     descripcionCurso:
-      'Los Negocios verdes se han convertido en un tópico con gran relevancia a nivel mundial, razón por la cual, los países continúan enfocando sus esfuerzos en desarrollar productos y servicios sostenibles que generen aportes significativos a la conservación del medio ambiente.',
+      'Los negocios verdes se han convertido en un tópico con gran relevancia a nivel mundial, razón por la cual, los países continúan enfocando sus esfuerzos en desarrollar productos y servicios sostenibles que generen aportes significativos a la conservación del medio ambiente.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -24,7 +24,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'DOFA dirigido a Negocios verdes',
+        titulo: 'DOFA dirigido a negocios verdes',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -36,7 +36,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Etapas de la planeación comercial',
+            titulo: 'Ventajas y desventajas',
             hash: 't_1_2',
           },
           {
@@ -185,7 +185,7 @@ export default {
         nombreRuta: 'tema8',
         icono: 'far fa-file-alt',
         numero: '8',
-        titulo: 'Sistema de producción orgánicos, bilógicos o ecológicos',
+        titulo: 'Sistema de producción orgánicos, biológicos o ecológicos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -242,12 +242,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
-    },
-    {
-      referencia:
         'Aguirre García, M. S., Gonzalez de Durana, C., Charterina Abando , J., & Vicente Molina, A. (2003). El consumidor ecológico. ',
       link:
         'https://www.researchgate.net/publication/28061197_El_consumidor_ecologico',
@@ -273,8 +267,9 @@ export default {
     { referencia: 'Grant, J. (2007). The Green Marketing Manifiesto.' },
 
     {
-      referencia: 'Marcet, X., Marcet, M., & Vergés, F. (2018).',
-      link: 'Papeles del Pacto Industrial, número 4. www.pacteindustrial.org',
+      referencia:
+        'Marcet, X., Marcet, M., & Vergés, F. (2018). Papeles del Pacto Industrial, número 4. ',
+      link: 'https://www.pacteindustrial.org/ca/',
     },
 
     {
@@ -305,7 +300,7 @@ export default {
     },
 
     {
-      referencia: 'Ventura. (s.f.). Serie Qué ver.',
+      referencia: 'Ventura. (s.f.). Serie Qué ver. ',
       link: 'https://vaventura.com/que-ver/',
     },
 
@@ -346,9 +341,9 @@ export default {
         'Suele ser un proyecto que se desarrolla con esfuerzo y haciendo frente a diversas dificultades, inicia como una pequeña empresa con la resolución de llegar a un determinado punto.',
     },
     {
-      termino: 'Marketing',
+      termino: '<em>Marketing</em>',
       significado:
-        'Disciplina dedicada al análisis del comportamiento de los mercados y de los consumidores. El marketing analiza la gestión comercial de las empresas, con el objetivo de captar, retener y fidelizar a los clientes a través de la satisfacción de sus necesidades.',
+        'Disciplina dedicada al análisis del comportamiento de los mercados y de los consumidores. El <em>marketing</em> analiza la gestión comercial de las empresas, con el objetivo de captar, retener y fidelizar a los clientes a través de la satisfacción de sus necesidades.',
     },
   ],
   complementario: [
@@ -392,7 +387,7 @@ export default {
       },
       {
         nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñadora Instruccional',
         centro: 'Centro de Gestión Industrial Regional Bogotá ',
       },
       {
@@ -415,7 +410,7 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -427,13 +422,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Oscar Marquez Sanabria',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Magdi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

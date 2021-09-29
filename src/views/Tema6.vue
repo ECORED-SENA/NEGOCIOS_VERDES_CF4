@@ -13,7 +13,7 @@
 
     .row.p-5.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-lg-7.bg02.p-4
-        p.mb-0 Los Negocios verdes, y en general la economía verde, es tendencia mundial, razón por la cual, a medida que se consolida esta temática en los diferentes países, se desarrollan términos y conceptos aplicables a este ámbito. Dentro de estas temáticas se encuentran: economía circular, ecomarketing, emprendimiento en Negocios verdes, entre otras. 
+        p.mb-0 Los negocios verdes, y en general la economía verde, es tendencia mundial, razón por la cual, a medida que se consolida esta temática en los diferentes países, se desarrollan términos y conceptos aplicables a este ámbito. Dentro de estas temáticas se encuentran: economía circular, #[i ecomarketing], emprendimiento en Negocios verdes, entre otras. 
 
     
     separador
@@ -48,6 +48,10 @@
       .col-lg-2.mb-4.mb-lg-0.bott1.p-4(data-aos="slide-left")
         p.text-center.mb-0 Ecología Industrial 
 
+      .row.justify-content-center.mt-3
+        .col-lg-9
+          figcaption Fuente: (Marcet, Marcet, & Vergés, 2018)
+
     .row.justify-content-center.mb-5
       .col-lg-9
         .head.p-4
@@ -56,7 +60,8 @@
           img.img-a(src='@/assets/curso/tema_5/img_2.png', alt='')
 
     figure.mb-5
-      img.img-a(src='@/assets/curso/tema_6/img_2.png', alt='')(data-aos="zoom-in-down")
+      img.img-a.mb-3(src='@/assets/curso/tema_6/img_2.png', alt='')(data-aos="zoom-in-down")
+      figcaption (ONU Medio Ambiente, 2018) 
 
     separador
     .titulo-segundo(data-aos="zoom-in")
@@ -67,25 +72,16 @@
     figure.mb-5
       img.img-a(src='@/assets/curso/tema_6/img_3.png', alt='')(data-aos="zoom-in-down")
 
-    p.mb-5(data-aos="zoom-in-down") Este modelo económico se lleva a cabo a nivel mundial, pero la escases de recursos naturales y el aumento exponencial de residuos generados, han creado la necesidad de optar por otro modelo económico que permita la reutilización al máximo de los recursos y el aprovechamiento de cada proceso de producción, con el fin de otorgar una segunda oportunidad de uso de estos, y avanzar hacia la economía circular. 
+    p.mb-5(data-aos="zoom-in-down") Este modelo económico se lleva a cabo a nivel mundial, pero la escasez de recursos naturales y el aumento exponencial de residuos generados, han creado la necesidad de optar por otro modelo económico que permita la reutilización al máximo de los recursos y el aprovechamiento de cada proceso de producción, con el fin de otorgar una segunda oportunidad de uso de estos, y avanzar hacia la economía circular. 
 
     separador
     .titulo-segundo(data-aos="zoom-in")
       #t_6_3.h2 6.3 Economía circular vs economía lineal 
 
-    p.mb-5(data-aos="zoom-in") A través de la historia, el modelo de economía lineal se ha caracterizado por extraer materiales de la tierra para fabricar productos, que se utilizarán y posterior a su uso, se desecharán. Es decir, la producción de bienes que inician en la extracción de materias primas y finaliza en la generación de residuos, de la siguiente manera:
-
-    .row.justify-content-center.mb-5
-      .col-lg-1.mb-4.mb-lg-0(data-aos="fade-up")
-        figure
-          img.img-a(src='@/assets/curso/tema_6/img_4.png', alt='')
-      .col-lg-3.mb-4.mb-lg-0.bg05.p-4.m_rig(data-aos="slide-left")
-        p.text-center.mt-5.mb-0 Sistema económico basado en la extracción de recursos naturales que son procesados para producir materiales, estos materiales servirán más tarde para la fabricación de productos que serán consumidos, usados y desechados.
-      .col-lg-3.mb-4.mb-lg-0.bg04.p-4(data-aos="slide-right")
-        p.text-center.mt-5.mb-0 Sistema económico inspirado en los ciclos de la naturaleza, donde nada se desperdicia. Este modelo tiene como propósito minimizar los desechos a través de una permanente circulación y restauración de los recursos, guardando su valor y utilidad por el mayor tiempo posible.
-      .col-lg-1.mb-4.mb-lg-0(data-aos="fade-down")
-        figure
-          img.img-a(src='@/assets/curso/tema_6/img_5.png', alt='')
+    
+    figure.mb-5(data-aos="fade-up")
+      img.img-a(src='@/assets/curso/tema_6/img_4.png', alt='')
+      
 
     separador
     .titulo-segundo(data-aos="zoom-in")
@@ -102,56 +98,56 @@
           
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Ahorro en el costo de los materiales: 
-            p.mb-0 Se requieren menos materias primas “frescas” y por lo tanto, los costos asociados a la extracción, proceso y refinación se mantienen a raya.
+            p.mb-0 se requieren menos materias primas “frescas” y por lo tanto, los costos asociados a la extracción, proceso y refinación se mantienen a raya.
         .row.mb-3.bg11.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_7.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Disminuye la volatilidad de precios y el riesgo asociado al suministro: 
-            p.mb-0 Al incrementar las fuentes de suministro, debido a la circularidad de componentes y materiales, es posible evitar los monopolios y construir una oferta más diversa, que a su vez mejora la oferta de precios para el consumidor.
+            p.mb-0 al incrementar las fuentes de suministro, debido a la circularidad de componentes y materiales, es posible evitar los monopolios y construir una oferta más diversa, que a su vez mejora la oferta de precios para el consumidor.
         .row.mb-3.bg03.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_8.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Aumenta el empleo: 
-            p.mb-0 La circulación permanente requiere de nuevas formas de pensar los servicios de reparación, separación, recolección, logística y recuperación. No solo en cantidad, sino en calidad, estos servicios son imprescindibles para la economía circular, y requerirán de trabajadores calificados para su funcionamiento.
+            p.mb-0 la circulación permanente requiere de nuevas formas de pensar los servicios de reparación, separación, recolección, logística y recuperación. No solo en cantidad, sino en calidad, estos servicios son imprescindibles para la economía circular, y requerirán de trabajadores calificados para su funcionamiento.
         .row.mb-3.bg11.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_9.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Hace más resiliente a la economía: 
-            p.mb-0 Al igual que como ocurre con la naturaleza, un sistema circular se adapta más rápidamente a eventos catastróficos, como pandemias, terremotos, huracanes, etc., gracias a que cuenta con una mayor variedad de fuentes de materias primas, prioriza el uso de energías renovables y sus sistemas están interconectados en una sólida red que les permite la supervivencia.
+            p.mb-0 al igual que como ocurre con la naturaleza, un sistema circular se adapta más rápidamente a eventos catastróficos, como pandemias, terremotos, huracanes, etc., gracias a que cuenta con una mayor variedad de fuentes de materias primas, prioriza el uso de energías renovables y sus sistemas están interconectados en una sólida red que les permite la supervivencia.
         .row.mb-3.bg03.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_10.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Elimina los vertederos: 
-            p.mb-0 Un modelo circular considera a los desechos un error de diseño. Es decir, que ante la existencia de desechos, el diseño del sistema se ajusta para que a través de las acciones que lo componen se elimine el desperdicio.
+            p.mb-0 un modelo circular considera a los desechos un error de diseño. Es decir, que ante la existencia de desechos, el diseño del sistema se ajusta para que a través de las acciones que lo componen se elimine el desperdicio.
         .row.mb-3.bg11.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_11.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Asegura la disponibilidad de recursos naturales en el futuro: 
-            p.mb-0 Al disminuir la demanda de recursos naturales y favorecer el retorno de las materias primas a la naturaleza.
+            p.mb-0 al disminuir la demanda de recursos naturales y favorecer el retorno de las materias primas a la naturaleza.
         .row.mb-3.bg03.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_12.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Disminuye las emisiones de gases de efecto invernadero: 
-            p.mb-0 Por un lado, a través de la eliminación de vertederos (que generan metano) y por el otro, al favorecer el uso de energías renovables, la eficiencia energética y la reducción de los procesos de extracción.
+            p.mb-0 por un lado, a través de la eliminación de vertederos (que generan metano) y por el otro, al favorecer el uso de energías renovables, la eficiencia energética y la reducción de los procesos de extracción.
         .row.mb-3.bg11.p-4
           .col-lg-2.mb-4.mb-lg-0
             figure
               img.img-a(src='@/assets/curso/tema_6/img_13.png', alt='')
           .col-lg-10.mb-4.mb-lg-0.vr1
             strong Disponibilidad de energía más limpia y económica: 
-            p.mb-0 Además de que a través de los ciclos y sistemas del modelo se recupera energía, en la economía circular, la principal fuente de energía debe ser renovable, lo que nos lleva a dejar de utilizar energías basadas en combustibles fósiles.
+            p.mb-0 además de que a través de los ciclos y sistemas del modelo se recupera energía, en la economía circular, la principal fuente de energía debe ser renovable, lo que nos lleva a dejar de utilizar energías basadas en combustibles fósiles.
  
     separador
     .titulo-segundo(data-aos="zoom-in")
