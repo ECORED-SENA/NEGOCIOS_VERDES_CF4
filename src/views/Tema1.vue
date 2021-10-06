@@ -66,7 +66,7 @@
     .titulo-segundo(data-aos="zoom-in")
       #t_1_3.h2 1.3 Elaboración 
 
-    p.mb-5(data-aos="slide-down") Para la correcta aplicación del método, es necesario analizar el entorno en el cual se encuentran las compañías, entendiendo como entorno, a todas y cada una de las variables que intervienen directa o indirectamente en la misma, con el in de generar estrategias alternativas. Este análisis organizacional se debe realizar teniendo en cuenta lo siguiente: 
+    p.mb-5(data-aos="slide-down") Para la correcta aplicación del método, es necesario analizar el entorno en el cual se encuentran las compañías, entendiendo como entorno, a todas y cada una de las variables que intervienen directa o indirectamente en la misma, con el fin de generar estrategias alternativas. Este análisis organizacional se debe realizar teniendo en cuenta lo siguiente: 
 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0.bg03.p-4

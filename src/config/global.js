@@ -228,11 +228,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -341,7 +336,8 @@ export default {
         'Suele ser un proyecto que se desarrolla con esfuerzo y haciendo frente a diversas dificultades, inicia como una pequeña empresa con la resolución de llegar a un determinado punto.',
     },
     {
-      termino: '<em>Marketing</em>',
+      termino: 'Marketing',
+      terminoHtml: '<em>Marketing</em>',
       significado:
         'Disciplina dedicada al análisis del comportamiento de los mercados y de los consumidores. El <em>marketing</em> analiza la gestión comercial de las empresas, con el objetivo de captar, retener y fidelizar a los clientes a través de la satisfacción de sus necesidades.',
     },
