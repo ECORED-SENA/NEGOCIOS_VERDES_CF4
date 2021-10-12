@@ -33,7 +33,7 @@
 
         figure(data-aos="zoom-in")
           LineaTiempoD.color-acento-contenido.mb-3
-            .row.justify-content-center(numero="1" titulo="Principio 1.")
+            .row.justify-content-center(numero="1" titulo="Principio 1")
               .col-md-11.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -50,7 +50,7 @@
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_3.png', alt='')(data-aos="zoom-in-down")
 
-            .row.justify-content-center(numero="2" titulo="Principio 2.")
+            .row.justify-content-center(numero="2" titulo="Principio 2")
               .col-md-11.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -68,7 +68,7 @@
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_5.png', alt='')
 
-            .row.justify-content-center(numero="3" titulo="Principio 3.")
+            .row.justify-content-center(numero="3" titulo="Principio 3")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -86,7 +86,7 @@
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_7.png', alt='')
 
-            .row.justify-content-center(numero="4" titulo="Principio 4.")
+            .row.justify-content-center(numero="4" titulo="Principio 4")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -104,7 +104,7 @@
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_9.png', alt='')
 
-            .row.justify-content-center(numero="5" titulo="Principio 5.")
+            .row.justify-content-center(numero="5" titulo="Principio 5")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -121,7 +121,7 @@
                       .col-lg-4.mb-4.mb-lg-0.vr1.d-flex
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_11.png', alt='')
-            .row.justify-content-center(numero="6" titulo="Principio 6.")
+            .row.justify-content-center(numero="6" titulo="Principio 6")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -138,7 +138,7 @@
                       .col-lg-4.mb-4.mb-lg-0.vr1.d-flex
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_13.png', alt='')
-            .row.justify-content-center(numero="7" titulo="Principio 7.")
+            .row.justify-content-center(numero="7" titulo="Principio 7")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -155,7 +155,7 @@
                       .col-lg-4.mb-4.mb-lg-0.vr1.d-flex
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_15.png', alt='')
-            .row.justify-content-center(numero="8" titulo="Principio 8.")
+            .row.justify-content-center(numero="8" titulo="Principio 8")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -172,7 +172,7 @@
                       .col-lg-4.mb-4.mb-lg-0.vr1.d-flex
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_17.png', alt='')
-            .row.justify-content-center(numero="9" titulo="Principio 9.")
+            .row.justify-content-center(numero="9" titulo="Principio 9")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
@@ -189,7 +189,7 @@
                       .col-lg-4.mb-4.mb-lg-0.vr1.d-flex
                         figure
                           img.img-a(src='@/assets/curso/tema_4/img_19.png', alt='')
-            .row.justify-content-center(numero="10" titulo="Principio 10.")
+            .row.justify-content-center(numero="10" titulo="Principio 10")
               .col-md-12.mb-4.mb-md-0.mt-5
                 .tarjeta-avatar-b.mb-5.bor5
                   .tarjeta-avatar-b__img
